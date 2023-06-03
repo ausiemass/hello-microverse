@@ -24,11 +24,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse] <a name="about-project"></a>
+# 📖 Hello-Microverse <a name="about-project"></a>
 
 >  
 
-**[Hello-microverse]** is my first project at microverse. It explains how to make branches and configuring linters.
+**Hello-microverse** is my first project at microverse. It explains how to make branches and configuring linters.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -48,8 +48,8 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[Online pachasing]**
-- **[Online payment]**
+- **Online pachasing**
+- **Online payment**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -110,9 +110,10 @@ Shift + ctrl + T
 ### Deployment
 
 You can deploy this project using:
-
-Windows
-Linux
+<ul>    
+<li>Windows</li>
+<li>Linux</li>
+</ul>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
