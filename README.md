@@ -1,105 +1,184 @@
-# hellomicroverse
-## Table of Contents
-## 📖 About the Project
-## 🛠 Built With
-### Tech Stack
-## Key Features
-## 💻 Getting Started
-## Setup
-## Prerequisites
-## Install
-## Usage
-## Run tests
-## Deployment
-## 👥 Authors
-## 🔭 Future Features
-## 🤝 Contributing
-## ⭐️ Show your support
-## 🙏 Acknowledgements
-## 📝 License
-# 📖 [hello-microverse]
-## Hello microverse is my first project at microverse. it explains how to make branches and configuring linters
+<a name="readme-top"></a>
 
-# 🛠 Built With
-## This project has been built with HTML
+<!-- TABLE OF CONTENTS -->
 
-## Client    HTML , CSS , Javascript
-## Server  php
-## Database mySQl 
+# 📗 Table of Contents
 
-# Key Features
- ## Key features of this  application are:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-### online purchasing
-### online payment
+<!-- PROJECT DESCRIPTION -->
 
-(back to top)
+# 📖 [Hello-Microverse] <a name="about-project"></a>
 
+>  
 
+**[Hello-microverse]** is my first project at microverse. It explains how to make branches and configuring linters.
 
-# 💻 Getting Started
-## To get a local copy up and running, follow these steps.
-## download the zipped file from www.hellomicroverse.com/downloads
+## 🛠 Built With <a name="built-with"></a>
 
-# Prerequisites
-## In order to run this project you need: 
-## windows or linux operating systems
-## 2GB free RAM
-## 20GB HDD
+### Tech Stack <a name="tech-stack"></a>
 
-# Setup
-##  Clone this repository to your desired folder:
-
-# Install
-## Install this project with:
-
-# Usage
-## run the project, execute the following command:
-## Shift + ctrl + R
-
-# Run tests
-## To run tests, run the following command:
-## Shift + ctrl + T
-
-# Deployment
-## You can deploy this project using:
-## Windows 
-## Linux
-
-(back to top)
-
-# 👥 Authors
-## The collaborators of this project are.
-
-## 👤 Austin Masamhiri
-## GitHub: ausiemass@githubhandle
-## Twitter: ausiemass@twitterhandle
-## LinkedIn: ausiemass
-
-## 👤 Alice Chikasha
-## GitHub: alice@githubhandle
-## Twitter: alice@twitterhandle
-## LinkedIn: ali
-(back to top)
-
-# 🔭 Future Features
-## The following are some of the features that I  will add to the project.
-
- ## responsiveness
- ## visa payments
-### (back to top)
-
-# 🤝 Contributing
-## Contributions, issues, and feature requests are welcome!
-## Feel free to check the issues page on www.hello-microverse.com/issues.
-
-# ⭐️ Show your support
-## If you like this project please support by giving me 4 or 5 stars.
-
-# 🙏 Acknowledgments
-## I would like to thank my collegues Nathaniel, Alice and Rachel who encouraged me tirelessly to produce this project
-
-# 📝 License
-## This project is MIT licensed.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://html.com/">HTML</a></li>
+     <li><a href="http://css.com/">CSS</a></li>
+  </ul>
+</details>
 
 
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+- **[Online pachasing]**
+- **[Online payment]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+Code editor like Visual studio
+windows or Linux operating systems
+2GB RAM
+20G HDD
+
+### Setup
+
+Clone this repository to your desired folder using the following commands:
+
+
+  cd your-folder
+  git clone git@github.com:ausiemass/hello-microverse.git
+
+
+### Install
+
+Install this project with:
+
+
+  cd my-project
+  gem install
+
+
+
+### Usage
+
+To run the project, execute the following command:
+
+
+Shift + ctrl + R
+
+
+### Run tests
+
+To run tests, run the following command:
+
+
+Shift + ctrl + T
+
+
+### Deployment
+
+You can deploy this project using:
+
+Windows
+Linux
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+
+
+👤 **Austin Masamhiri**
+
+- GitHub: [@ausiemass](https://github.com/)
+- Twitter: [@ausiemass](https://twitter.com/home)
+- LinkedIn: [ausiemass](https://www.linkedin.com/feed/)
+
+👤
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Resposiveness]**
+- [ ] **[Visa paymets]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+If you like this project please support by giving me 4 or 5 stars.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank my collegues Nathaniel, Alice and Rachel who encouraged me tirelessly to produce this project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
